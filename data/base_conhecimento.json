@@ -79,7 +79,7 @@
     "id": 5,
     "categoria": "Trabalho e vagas",
     "titulo": "Como se inscrever como Jovem Aprendiz",
-    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "programa de aprendizagem", "contrato de aprendizagem", "aprendizagem profissional", "com 15 anos", "com 16 anos"],
+    "palavras_chave": ["idade minima","jovem aprendiz", "aprendiz", "menor aprendiz", "programa de aprendizagem", "contrato de aprendizagem", "aprendizagem profissional", "com 15 anos", "com 16 anos"],
     "resposta": "Para se inscrever, você precisa ter de 14 anos completos até 24 anos incompletos. Quem ainda\nnão terminou a educação básica deve estar matriculado e frequentando a escola. Procure uma\nentidade formadora habilitada na sua cidade (como Senai, Senac, Senar, Senat, Sescoop,\nescolas técnicas ou ONGs) ou uma empresa que contrata aprendizes. A lista de entidades\npode ser consultada por município. A vaga está ligada a um curso de aprendizagem feito nessa\nentidade. O contrato dura até 2 anos, tem carteira assinada e garante salário mínimo por hora\ntrabalhada, FGTS, 13º salário, férias e vale-transporte.",
     "documentos": [
       "Comprovante de matrícula e frequência escolar (para quem não terminou a educação básica)",
@@ -159,6 +159,7 @@
     "categoria": "Dinheiro e formalização",
     "titulo": "Como funciona a conta-salário",
     "palavras_chave": [
+      "conta-salário",
       "conta salario",
       "conta de salario",
       "conta para receber salario",
