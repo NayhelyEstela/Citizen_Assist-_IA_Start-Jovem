@@ -1,4 +1,4 @@
-# Citizen Assist AI
+# Citizen Assist AI: START JOVEM
 
 Assistente de terminal, escrito em Python, que orienta **jovens no primeiro emprego** sobre documentos, trabalho e dinheiro. Ele responde só com o que está na base de conhecimento (`data/base_conhecimento.json`), mostra a **fonte** e a **data de verificação** de cada resposta e **não coleta dados pessoais**.
 
