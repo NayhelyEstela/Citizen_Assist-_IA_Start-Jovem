@@ -362,4 +362,4 @@ A terceira linha é a pergunta incluída na rodada 2 para a orientação 15, que
 
 ## Vídeo técnico
 
-[Pendente]
+Link: https://youtu.be/wP1Vt34FHv8
