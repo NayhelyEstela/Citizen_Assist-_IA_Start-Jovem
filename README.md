@@ -8,10 +8,10 @@ Projeto da Global Solution 2026.2 (FIAP): Pensamento Computacional e Automação
 
 ## Integrantes
 
-| Nome                            | RM       |
-|---------------------------------|----------|
-| [Kauanne Paula de Oliveira]     | [574191] |
-| [Nayhely Estela Calle Castillo] | [571416] |
+| Nome                          | RM       |
+|-------------------------------|----------|
+| Kauanne Paula de Oliveira     | [574191] |
+| Nayhely Estela Calle Castillo | [571416] |
 
 ## Público e problema escolhidos
 
